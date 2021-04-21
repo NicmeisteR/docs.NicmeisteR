@@ -23,9 +23,6 @@ You can download Git here: https://git-scm.com/downloads
 Node JS is super important, this helps you install all sorts of packages to help with development, it also comes with a package manager called npm (node package manager) which you will use a lot.
 
 You can download NodeJS here: https://nodejs.org/en/download/
-<br/>
-<br/>
-<br/>
 
 # Getting Started:
 ---
@@ -34,10 +31,6 @@ You can download NodeJS here: https://nodejs.org/en/download/
 Get the base project from my Github to get started, this repo also includes reccomended extensions to make coding/testing easier.
 To clone the repo open up your terminal and execute the following command:
 > git clone https://github.com/NicmeisteR/Tutorial-Api.git
-
-<br/>
-<br/>
-<br/>
 
 # Extras:
 ---
